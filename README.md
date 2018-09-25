@@ -1,1 +1,1 @@
-# dima-go.github.io
+# go-dima.github.io
